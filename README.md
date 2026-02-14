@@ -1,7 +1,7 @@
 # Tasty restaurant.
 
 A full-featured restaurant web application built using **Node.js**, **Express**, **EJS**, and **MySQL**.  
-This project was developed as part of a Hcode course and demonstrates a modern backend with real-time capabilities using **Socket.IO**, session management with **Redis**, and file uploads.:contentReference[oaicite:1]{index=1}
+This project was developed as part of a Hcode course and demonstrates a modern backend with real-time capabilities using **Socket.IO**, session management with **Redis**, and file uploads.
 
 ## 🧠 Overview
 
